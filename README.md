@@ -1,3 +1,6 @@
 # Hello, I'm Red!
 I am fluent in Lua, Python and mcfunction.
-[![Red's GitHub Stats](https://github-readme-stats.vercel.app?username=RedBigz)](https://github.com/anuraghazra/github-readme-stats)
+
+![Red's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedBigz&theme=tokyonight)
+
+![Red's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=RedBigz&theme=tokyonight)
