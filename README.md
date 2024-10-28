@@ -1,10 +1,8 @@
-![uwu](./uwu.png)
+<center><img src="./uwu.png">
 
-## sup i'm red
-[*(she/they)*](https://en.wikipedia.org/wiki/Preferred_gender_pronoun)
+`:O someone saw my github profile`
 
-i'm a full-stack dev, and i love fps games
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=redbigz&show_icons=true&theme=catppuccin_mocha&hide_title=true&hide_border=true">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=redbigz&show_icons=true&theme=catppuccin_mocha&hide_title=true&layout=compact&hide_border=true">
 
-### some projects of mine
-- [SpookTubeEX](https://git.redbigz.com/SpookTube/SpookTubeEX)
-- [macadamia](https://git.redbigz.com/red/macadamia)
+</center>
