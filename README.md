@@ -4,7 +4,7 @@
 
 I'm **May (she/her)**, an [Aussie](https://en.wiktionary.org/wiki/Aussie) developer with no sense of self-preservation! I'm currently a high-school senior (studying in Brisbane!), and I plan to start an honours degree in mechatronics engineering in 2028.
 
-My current hobbies (barring procrastination) are engineering and pentesting! I run a 
+My current hobbies (barring procrastination) are engineering and pentesting! I run a CTF team with my mates called [--please-preserve-root](https://github.com/please-preserve-root) and we've somehow made it to 1st in the state (6th nationally) for [PECAN+ 2025](https://ctftime.org/event/2882/).
 
 If you want to see the fruits of my open-source labour, you can check out my pinned section! Otherwise, here are some projects you may enjoy:
 
