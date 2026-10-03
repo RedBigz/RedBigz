@@ -15,10 +15,6 @@ If you want to see the fruits of my open-source labour, you can check out my pin
 
 ## some stupid stuff about me!
 
-### identity
-
-I'm trans, if that wasn't obvious.
-
 ### pc specs
 
 - **Desktop** - Custom build! (made in 2023)
